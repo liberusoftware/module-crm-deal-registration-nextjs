@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-deal-registration-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-deal-registration",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-deal-registration-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/deal-registration.md",
+  "presentationPlan": "projects/crm/nextjs/deal-registration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
